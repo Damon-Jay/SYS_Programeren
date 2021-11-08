@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les02\\Les05SYS\\Les05SYS\\Les05SYS.csproj": {}
+    "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les04\\Les04\\Les04\\Les04.csproj": {}
   },
   "projects": {
-    "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les02\\Les05SYS\\Les05SYS\\Les05SYS.csproj": {
+    "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les04\\Les04\\Les04\\Les04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les02\\Les05SYS\\Les05SYS\\Les05SYS.csproj",
-        "projectName": "Les05SYS",
-        "projectPath": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les02\\Les05SYS\\Les05SYS\\Les05SYS.csproj",
+        "projectUniqueName": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les04\\Les04\\Les04\\Les04.csproj",
+        "projectName": "Les04",
+        "projectPath": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les04\\Les04\\Les04\\Les04.csproj",
         "packagesPath": "C:\\Users\\damon\\.nuget\\packages\\",
-        "outputPath": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les02\\Les05SYS\\Les05SYS\\obj\\",
+        "outputPath": "D:\\MA\\Bewijzenmap leerjaar 2\\Periode 1\\SYS\\Programeren\\les04\\Les04\\Les04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
