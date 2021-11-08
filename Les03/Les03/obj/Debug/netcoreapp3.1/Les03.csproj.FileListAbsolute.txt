@@ -1,0 +1,13 @@
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.exe
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.deps.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.runtimeconfig.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.runtimeconfig.dev.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.dll
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\bin\Debug\netcoreapp3.1\Les03.pdb
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.csprojAssemblyReference.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.AssemblyInfoInputs.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.AssemblyInfo.cs
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.csproj.CoreCompileInputs.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.dll
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.pdb
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\Les03\Les03\obj\Debug\netcoreapp3.1\Les03.genruntimeconfig.cache
